@@ -1,0 +1,45 @@
+body{
+    background-color: #f5f5f5;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.formato_def{
+    border: black solid;
+    margin: 1%;
+    text-align: center ;
+}
+.titulo{
+    border: black solid;
+    text-align: center;
+    margin: 1%;
+}
+
+.txt_bienvenida{
+    text-align: center;
+    border: black dotted; 
+}
+
+.p{
+    padding: 2%
+}
+
+#identificador{
+    color: violet;
+    font-size: large;
+}
+
+.blue{
+    color: blue;
+}
+
+.links{
+
+}
