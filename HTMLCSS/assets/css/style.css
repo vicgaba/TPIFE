@@ -43,3 +43,13 @@ body{
 .links{
 
 }
+
+.formato_texto{
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: large;
+}
+
+.formato_lista{
+    text-align: left;
+    border: blue solid;
+}
